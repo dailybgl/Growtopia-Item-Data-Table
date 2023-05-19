@@ -1,4 +1,4 @@
-{
+return {
         {
             itemID = 0,
             name = "Blank"
